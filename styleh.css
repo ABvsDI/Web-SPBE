@@ -1,0 +1,38 @@
+#bgmain{
+    background-color: rgb(255, 255, 255);
+}
+#contain{
+    background-color: rgb(255, 255, 255);
+}
+#rowis{
+    background-color: rgb(255, 255, 255);
+}
+#navbar{
+    background-color: rgb(82, 215, 255);
+}
+#serch{
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+#searchbutton{
+    background-color: rgb(0, 195, 255);
+    color: aliceblue;
+}
+#topthing{
+    background-image: url("denpasar/1-1PR6220600252.png");
+}
+#tnjcontain{
+    background-color:rgb(217, 231, 245);
+    padding: 25px;
+    border-radius: 20px;
+}
+#tnjisi{
+    background-color:rgb(172, 193, 216);
+    margin-left: 7%;
+    margin-right: 7%;
+    padding: 5px;
+    border-radius: 20px;
+}
+#tnj1{
+    margin-bottom: 25px;
+}
